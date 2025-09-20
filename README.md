@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardin-sojon" alt="fardin-sojon" /></a> </p>
 
-- 📫 How to reach me: **<a href="mailto:fardinsojom@gmail.com">fardinsojom@gmail.com</a>**
+- 📫 How to reach me: **<a href="mailto:fardinsojom@gmail.com">fardinsojon@gmail.com</a>**
 
 - 😂 Fun fact: **Developers spend more time reading code than writing it!**
 
