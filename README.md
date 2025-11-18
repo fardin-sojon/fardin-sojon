@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/jZ9HQQ45/github-cover.jpg" alt="github-cover" border="0" height="100%" width="100%">
+<img src="https://i.ibb.co.com/0jJ1dWqd/Github-Cover-Photo.jpg" alt="Github-Cover-Photo" border="0" height="100%" width="100%">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,8 +10,7 @@
 
 ## About Me
 
-I am a passionate Frontend Developer from Bangladesh, focusing mainly on React.js and Tailwind CSS. I love building all kinds of web applications, exploring new technologies, and sharing with the community.  
-**Always curious, always learning.**
+I am a passionate Developer from Bangladesh, focusing mainly on React.js and Tailwind CSS. I love building all kinds of web applications, exploring new technologies, and sharing with the community. **Always curious, always learning.**
 
 ## 🚀 Current Activities
 
