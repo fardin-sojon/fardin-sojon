@@ -10,9 +10,8 @@
 
 ## About Me
 
-I am a passionate Frontend Developer from Bangladesh, focusing mainly on React.js and Tailwind CSS.  
-I love building all kinds of web applications, exploring new technologies, and sharing with the community.  
-Always curious, always learning.
+I am a passionate Frontend Developer from Bangladesh, focusing mainly on React.js and Tailwind CSS. I love building all kinds of web applications, exploring new technologies, and sharing with the community.  
+**Always curious, always learning.**
 
 ## 🚀 Current Activities
 
