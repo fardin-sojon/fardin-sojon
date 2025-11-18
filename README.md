@@ -17,11 +17,6 @@ Currently exploring Next.js and building small projects.
 - Working on a tourism website
 - Learning AI Project / API Integration
 
-### Additional Skill
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-3.svg" alt="AI Project" width="40" height="40"/>
-</a>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin-sojon&label=Profile%20views&color=0e75b6&style=flat" alt="fardin-sojon" /> </p>
 
