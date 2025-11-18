@@ -9,13 +9,18 @@
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 ## About Me
-I am a Frontend Developer focusing on React.js and Tailwind CSS.  
-Currently exploring Next.js and building small projects.
 
-### Current Activities
-- Exploring NEXT.JS
-- Working on a tourism website
-- Learning AI Project / API Integration
+I am a passionate Frontend Developer from Bangladesh, focusing mainly on React.js and Tailwind CSS.  
+I love building all kinds of web applications, exploring new technologies, and sharing with the community.  
+Always curious, always learning.
+
+## 🚀 Current Activities
+
+- 🌱 Learning advanced **React** and **Tailwind CSS**
+- 🏗️ Building different creative UI/UX based projects
+- ✍️ Writing about web performance & frontend best practices
+- 🤖 Experimenting with AI-powered development tools
+- 🧩 Contributing to open-source
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin-sojon&label=Profile%20views&color=0e75b6&style=flat" alt="fardin-sojon" /> </p>
