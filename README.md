@@ -1,4 +1,8 @@
-<img src="https://i.ibb.co.com/Kjr7d85Q/Cover-Photo.jpg" alt="Cover-Photo" border="0" height="100%" width="100%">
+
+<img 
+  src="https://i.ibb.co.com/5x29WvNr/cover-photo.jpg" 
+  alt="cover-photo-github"
+/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
