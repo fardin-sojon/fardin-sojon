@@ -1,6 +1,6 @@
 
 <img 
-  src="https://i.ibb.co.com/5x29WvNr/cover-photo.jpg" 
+  src="./cover-photo.png" 
   alt="cover-photo-github"
 />
 
